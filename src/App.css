@@ -1,0 +1,39 @@
+.list {
+  width: 400px;
+  border: 1px solid darkgray;
+  position: absolute;
+}
+
+.users {
+  height: 40px;
+  padding-top: 20px;
+  padding-left: 15px;
+  border-bottom: 1px solid darkgray;
+}
+
+.details {
+  position: relative;
+  left: 430px;
+  border: 1px solid darkgray;
+  width: 300px;
+}
+
+.avatar {
+  border-bottom: 1px solid darkgray;
+}
+
+.name,
+.position {
+  height: 50px;
+  border-bottom: 1px solid darkgray;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.city,
+.company {
+  height: 30px;
+  border-bottom: 1px solid darkgray;
+  padding-top: 10px;
+  padding-left: 15px;
+}
